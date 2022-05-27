@@ -1,4 +1,4 @@
-![Process work]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://storage.yandexcloud.net/rtme-public-for-cdn/ezgif-1-a1a8137bc3.gif))
+![Process work](https://storage.yandexcloud.net/rtme-public-for-cdn/ezgif-1-a1a8137bc3.gif)
 
 #DB
 
