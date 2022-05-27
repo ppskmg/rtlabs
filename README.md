@@ -21,26 +21,8 @@ migrate -database "postgresql://localhost:5432/restapi_dev?sslmode=disable" -pat
 migrate create -ext sql -dir ../go/src/boopcar-back/migrations -seq create_NAME_table
 ```
 
-# Architecture
-    cmd
-        main.go
-        
-    internal
-        adapters
-            api
-            db
-        config
-        domain
 
-    pkg
-        client
-            mongodb
-        logger
-    migrations
-    
-
-
-# Architecture
+# Tree
     cmd
     configs
     internal
